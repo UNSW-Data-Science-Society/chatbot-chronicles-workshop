@@ -18,6 +18,7 @@ The app is built using the following libraries and APIs:
     - text-embedding-ada-002 for embeddings.
 - Hugging Face open source models: 
     - hkunlp/instructor-xl for embeddings.
+    - [huggingface embedding model used](https://huggingface.co/hkunlp/instructor-xl)
     - used google/flan-t5-xxl for chat.
 - PyPDF2: For extracting text from PDF documents.
 Other custom libraries for text processing and conversation management.
@@ -37,6 +38,7 @@ Other custom libraries for text processing and conversation management.
 
 ###### To run the webapp locally, follow these steps:
 - Clone the repository using ```git clone <repo-name>```
+- Preferably install and activate a virtual environment. 
 - Install the required libraries by running ```pip install -r requirements.txt```.
 - Run the app using ```streamlit run app.py```.
 
