@@ -1,8 +1,6 @@
 css = '''
 <style>
 
-# insert background image here if you want to 
-
 .footer {
     position: relative;
     bottom: 0;
