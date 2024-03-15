@@ -2,7 +2,7 @@
 
 Built using Langchain, APIs from OpenAI and HuggingFace, hosted using streamlit
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](insert link here after deployment)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://unsw-datasoc-chatbot-chronicles.streamlit.app/)
 
 ### Features
 - PDF Processing: The app reads and extracts text content from multiple uploaded PDF documents.
