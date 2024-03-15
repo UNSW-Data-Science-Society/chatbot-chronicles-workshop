@@ -10,3 +10,5 @@ tiktoken
 huggingface_hub
 InstructorEmbedding 
 sentence_transformers
+python-dotenv
+sqlalchemy
