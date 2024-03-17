@@ -9,6 +9,6 @@ openai
 tiktoken 
 huggingface_hub
 InstructorEmbedding 
-sentence-transformers==2.2.2
+sentence-transformers
 python-dotenv
 sqlalchemy
